@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconLocation">
+        <ignore path="C:/ELearningApp/app/src/main/res/drawable/admin.png" />
+        <ignore path="C:/ELearningApp/app/src/main/res/drawable/admin.png" />
+        <ignore path="C:/ELearningApp/app/src/main/res/drawable/android.png" />
+        <ignore path="C:/ELearningApp/app/src/main/res/drawable/avatar.png" />
+        <ignore path="C:/ELearningApp/app/src/main/res/drawable/backend.png" />
+        <ignore path="C:/ELearningApp/app/src/main/res/drawable/database.png" />
+        <ignore path="C:/ELearningApp/app/src/main/res/drawable/frontend.png" />
+        <ignore path="C:/ELearningApp/app/src/main/res/drawable/machine_learning.png" />
+        <ignore path="C:/ELearningApp/app/src/main/res/drawable/tutor.png" />
+        <ignore path="C:/ELearningApp/app/src/main/res/drawable/user.png" />
+        <ignore path="C:/ELearningApp/app/src/main/res/drawable/web.png" />
+    </issue>
+</lint>
